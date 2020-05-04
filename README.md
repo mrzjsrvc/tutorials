@@ -32,11 +32,11 @@ If `git push origin master` does not work, try `git push`. Same goes for `git pu
 You will not need more branches than that for the purposes of this assignment.
 If you have merge conflicts, you will see this marked in your code with something like this:
 
-![](https://code.visualstudio.com/assets/docs/editor/versioncontrol/merge-conflict.png?raw=true)
+![](merge-conflict.png?raw=true)
 
 The conflict is marked with "_<<<<_" and "_>>>>_" respectively. This means that you have to remove either the bottom half(below the "_\=\=\=\=\=\=_"), or the upper half(above the "_\=\=\=\=\=\=_"), then save the file. Also remove the markers. Or if you have a fancy-schmancy editor/IDE like the one in the image, you can just click "Accept Current Change" or "Accept Incoming Change".
 You then repeat the procedure above with add, but without pull, then you commit and push again.
 For more detailed information, see [this reference](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/resolving-a-merge-conflict-using-the-command-line).
 
-If this was helpful, consider clicking this thing to show support for the Windows master race:
+If this was helpful, consider clicking this thing to show support for the Windows master race: <br/>
 ![](star.png?raw=true)
