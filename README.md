@@ -38,5 +38,5 @@ The conflict is marked with "_<<<<_" and "_>>>>_" respectively. This means that 
 You then repeat the procedure above with add, but without pull, then you commit and push again.
 For more detailed information, see [this reference](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/resolving-a-merge-conflict-using-the-command-line).
 
-If this was helpful, consider clicking this thing to show support for the Windows master race: <br/>
+If this was helpful, consider clicking this thing to show support for the Windows master race: <br/><br/>
 ![](star.png?raw=true)
