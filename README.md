@@ -16,7 +16,7 @@ Make sure you have navigated(using the command _cd_) to the folder where this re
 
 ## Usage
  ---
-In PowerShell, you should be able to run the files using the command "_py_", like this: `py .\numpytest.py`.
+In PowerShell, you should be able to run the files using the command "_py_"/"_py -3_"(in Unix distros like Ubuntu, Linux etc., the command might be "_python_"/"_python3_" instead), like this: `py .\numpytest.py`.
 Try this for _pandastest_ as well to make sure it works.
 Unfortunately there won't be a tutorial for plotly, because it would give away too much(_yes, it's that easy_). 
 
