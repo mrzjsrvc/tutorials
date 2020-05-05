@@ -12,11 +12,12 @@
     python get-pip.py
     pip install -r requirements.txt
     ```
+Make sure you have navigated(using the command _cd_) to the folder where this repo's files were cloned before you do the last step(`pip install -r requirements.txt`)
 
 ## Usage
  ---
 In PowerShell, you should be able to run the files using the command "_py_", like this: `py .\numpytest.py`.
-Try this for _numpytest_ as well to make sure it works.
+Try this for _pandastest_ as well to make sure it works.
 Unfortunately there won't be a tutorial for plotly, because it would give away too much(_yes, it's that easy_). 
 
 ## Git
